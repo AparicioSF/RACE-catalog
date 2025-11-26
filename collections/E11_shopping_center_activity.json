@@ -17,15 +17,17 @@
   ],
   "DataSource": {
     "Spaceborne": {
-      "Satellite": [
-        "Sentinel-1"
-      ],
-      "Sensor": [
-        "C-SAR"
-      ]
-    },
-    "InSitu": [
-      "Mobile"
+        "Satellite": [
+      "Sentinel-1",
+      "Sentinel-2"
+    ],
+    "Sensor": [
+      "C-SAR",
+      "MSI"
+    ]
+  },
+  "InSitu": [
+    "Mobile"
     ]
   },
   "Agency": [
